@@ -6,7 +6,7 @@
 #include <dirent.h>
 
 #define LINE_MAX 10
-#define SPEED 1 // delay in ms
+#define SPEED 0.1 // delay in ms
 #define DEFAULT_WIDTH 20
 #define DEFAULT_HEIGHT 20
 #define FILE_LIST 5
